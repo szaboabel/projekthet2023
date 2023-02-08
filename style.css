@@ -1,0 +1,61 @@
+body {
+    background-color: #021c1c;
+}
+#cim {
+    text-align: center;
+    background-color: mediumblue;
+    color: white;
+}
+h3 {
+    text-align: center;
+}
+.bodydiv {
+    background-color: #021c1c;
+    color: white;
+}
+
+#mittud {
+    text-align: center;
+}
+
+.fizika {
+    border-radius: 20px;
+    background-color: mediumblue;
+}
+
+.matek {
+    border-radius: 20px;
+    background-color: mediumblue;
+}
+
+.list-group, .list-group-item {
+    background-color: #021c1c;
+    color: white;
+}
+
+.lista {
+    list-style-type: none;
+}
+
+.letoltes {
+    text-align: center;
+}
+
+a {
+    border-radius: 20px;
+    border: 10px solid mediumblue;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: mediumblue;
+}
+
+a:hover {
+    background-color: mediumblue;
+    color: white;
+}
+
+#keszitette {
+    text-align: center;
+}
